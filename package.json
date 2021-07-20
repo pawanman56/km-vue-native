@@ -10,7 +10,7 @@
     "native-base": "^2.13.12",
     "react": "16.8.3",
     "react-devtools": "^3.6.3",
-    "react-native": "0.59",
+    "react-native": "0.62",
     "react-native-meteor": "^1.4.0",
     "vue-native-core": "0.1.4",
     "vue-native-helper": "0.1.4"
